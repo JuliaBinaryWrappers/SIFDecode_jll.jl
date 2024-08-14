@@ -1,309 +1,309 @@
 [[SIFDecode]]
 arch = "aarch64"
-git-tree-sha1 = "491646b8fad75a6ded6967e9f6bfccea63d136ac"
+git-tree-sha1 = "9e16b5eb7b59096b041366f4cbc2b9849cf437d0"
 libgfortran_version = "5.0.0"
 os = "macos"
 
     [[SIFDecode.download]]
-    sha256 = "39f7ec40495172b8638c5356d59c6c6a2f2852c67dae82204f96c078b864e5b0"
-    url = "https://github.com/JuliaBinaryWrappers/SIFDecode_jll.jl/releases/download/SIFDecode-v2.5.0+0/SIFDecode.v2.5.0.aarch64-apple-darwin-libgfortran5.tar.gz"
+    sha256 = "f8befd4f03ae19fe5877ebdacf28627592c5776fa65c20f5e7ffef22f78a0d45"
+    url = "https://github.com/JuliaBinaryWrappers/SIFDecode_jll.jl/releases/download/SIFDecode-v2.5.1+0/SIFDecode.v2.5.1.aarch64-apple-darwin-libgfortran5.tar.gz"
 [[SIFDecode]]
 arch = "aarch64"
-git-tree-sha1 = "d649fe834072c9f35e55ebe39a6b899383359e01"
+git-tree-sha1 = "3f6195e0baf98bbe94829155abebf789acce79e4"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[SIFDecode.download]]
-    sha256 = "eeab9a61d684a44dd1d73dd107b68f188d68ee3957d6190a4dfeacf56ae832c7"
-    url = "https://github.com/JuliaBinaryWrappers/SIFDecode_jll.jl/releases/download/SIFDecode-v2.5.0+0/SIFDecode.v2.5.0.aarch64-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "d768a19a1bd3c2aa51f5e457402f9c3dffb69d052fb3a8998443adee0d8ab930"
+    url = "https://github.com/JuliaBinaryWrappers/SIFDecode_jll.jl/releases/download/SIFDecode-v2.5.1+0/SIFDecode.v2.5.1.aarch64-linux-gnu-libgfortran4.tar.gz"
 [[SIFDecode]]
 arch = "aarch64"
-git-tree-sha1 = "65c7dd7e5194e0ae102635ceb2c75207bc347736"
+git-tree-sha1 = "79b8632f22d386ec336e7d425c49060216dddbae"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SIFDecode.download]]
-    sha256 = "d91978315d005a8288cd80b99eddd4882d3a64a4ed31b6db2311f93f3158c17a"
-    url = "https://github.com/JuliaBinaryWrappers/SIFDecode_jll.jl/releases/download/SIFDecode-v2.5.0+0/SIFDecode.v2.5.0.aarch64-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "a9c522935e88de3a695e96128659e34a9c30412a99d0496b38c31615d885a246"
+    url = "https://github.com/JuliaBinaryWrappers/SIFDecode_jll.jl/releases/download/SIFDecode-v2.5.1+0/SIFDecode.v2.5.1.aarch64-linux-gnu-libgfortran5.tar.gz"
 [[SIFDecode]]
 arch = "aarch64"
-git-tree-sha1 = "aaf152e33d2c3ac17fe574c10924a71f90daaa86"
+git-tree-sha1 = "d36d0f1fa743a827834968b9c394dfb971b69073"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[SIFDecode.download]]
-    sha256 = "6ccf8c4c08e960920132ba3e0a69d0bd2e12699299c1a8ec31289fce46298045"
-    url = "https://github.com/JuliaBinaryWrappers/SIFDecode_jll.jl/releases/download/SIFDecode-v2.5.0+0/SIFDecode.v2.5.0.aarch64-linux-musl-libgfortran4.tar.gz"
+    sha256 = "bee3892f8baa70fe0f41cfae2ec5711dfc6ab99e8fbf5a10134d75addbaec9cd"
+    url = "https://github.com/JuliaBinaryWrappers/SIFDecode_jll.jl/releases/download/SIFDecode-v2.5.1+0/SIFDecode.v2.5.1.aarch64-linux-musl-libgfortran4.tar.gz"
 [[SIFDecode]]
 arch = "aarch64"
-git-tree-sha1 = "41042b14c63a8a6dd7c0dd88c5e381eb4678cebc"
+git-tree-sha1 = "7def89aa684f9d27c37a8605777016a268538e08"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SIFDecode.download]]
-    sha256 = "9609f317490d6d77a5e39344bd118b5b5960d7f8e6f79a3e27693cf16a42ec0b"
-    url = "https://github.com/JuliaBinaryWrappers/SIFDecode_jll.jl/releases/download/SIFDecode-v2.5.0+0/SIFDecode.v2.5.0.aarch64-linux-musl-libgfortran5.tar.gz"
+    sha256 = "2eb1057c3f9cb92f8734abfa545b26b1cca976cb43ccbe1f594ac1ecce61783f"
+    url = "https://github.com/JuliaBinaryWrappers/SIFDecode_jll.jl/releases/download/SIFDecode-v2.5.1+0/SIFDecode.v2.5.1.aarch64-linux-musl-libgfortran5.tar.gz"
 [[SIFDecode]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "280941eddd9eb822e558052aac40374eee368628"
+git-tree-sha1 = "c77ab20368b3b1f8c4d8517865909895e12a9c74"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[SIFDecode.download]]
-    sha256 = "b1cfdd7136ca7fe7dafa8ee4ecf58524edbeda70337ecb98fc5af52fd14542a1"
-    url = "https://github.com/JuliaBinaryWrappers/SIFDecode_jll.jl/releases/download/SIFDecode-v2.5.0+0/SIFDecode.v2.5.0.armv6l-linux-gnueabihf-libgfortran4.tar.gz"
+    sha256 = "74e5760ceebd7ab4c24178be2890cc91e2951a68f26db7e82207d84a9ef2d4ce"
+    url = "https://github.com/JuliaBinaryWrappers/SIFDecode_jll.jl/releases/download/SIFDecode-v2.5.1+0/SIFDecode.v2.5.1.armv6l-linux-gnueabihf-libgfortran4.tar.gz"
 [[SIFDecode]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "7f4235de3861fb911381f18e9f890099c25455d9"
+git-tree-sha1 = "5bb73bd46216db53becef02b5c3921fc929e8006"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SIFDecode.download]]
-    sha256 = "6a1c76a31760142da9730a3e32b613d44efc0a11b3c1de14ff58dac1a7cc3d34"
-    url = "https://github.com/JuliaBinaryWrappers/SIFDecode_jll.jl/releases/download/SIFDecode-v2.5.0+0/SIFDecode.v2.5.0.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
+    sha256 = "f4e38b79001a7695550f359bb0343b53f62b541f66874be4378716ac55133ff5"
+    url = "https://github.com/JuliaBinaryWrappers/SIFDecode_jll.jl/releases/download/SIFDecode-v2.5.1+0/SIFDecode.v2.5.1.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
 [[SIFDecode]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "45904af099f0cc73461070886a83d44f5292cf8a"
+git-tree-sha1 = "f52f3e4a63f1aee9acc6ed84312f12d10ecad4ee"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[SIFDecode.download]]
-    sha256 = "8b2178671cc9a4df680b529fb267584f0b41f793acb08aace0e9bb535a7c11ba"
-    url = "https://github.com/JuliaBinaryWrappers/SIFDecode_jll.jl/releases/download/SIFDecode-v2.5.0+0/SIFDecode.v2.5.0.armv6l-linux-musleabihf-libgfortran4.tar.gz"
+    sha256 = "5790c79c8b6882488662f08233b7750faad1a903e9ec83d5b6f1e5e179fcdf7c"
+    url = "https://github.com/JuliaBinaryWrappers/SIFDecode_jll.jl/releases/download/SIFDecode-v2.5.1+0/SIFDecode.v2.5.1.armv6l-linux-musleabihf-libgfortran4.tar.gz"
 [[SIFDecode]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "eab1d62921aeae777b8304942de3aa41b9c0fc17"
+git-tree-sha1 = "622ab7eeab70bc58e0beb06007045782a2fec661"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SIFDecode.download]]
-    sha256 = "6a3f2aad0a45fb26a35f058a59614a630282e563e653168b1c2df051d69892d2"
-    url = "https://github.com/JuliaBinaryWrappers/SIFDecode_jll.jl/releases/download/SIFDecode-v2.5.0+0/SIFDecode.v2.5.0.armv6l-linux-musleabihf-libgfortran5.tar.gz"
+    sha256 = "0935e56cb3e9fa7ac28f930b326505d1f30a086c672ed8af0da640b1354b8c0e"
+    url = "https://github.com/JuliaBinaryWrappers/SIFDecode_jll.jl/releases/download/SIFDecode-v2.5.1+0/SIFDecode.v2.5.1.armv6l-linux-musleabihf-libgfortran5.tar.gz"
 [[SIFDecode]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "af6ca057079e3e4cc57091607e51016f4f17f50c"
+git-tree-sha1 = "eec1759e51c090a0065b27d03a5f663a19e1ccfb"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[SIFDecode.download]]
-    sha256 = "aa86b1a984e1b630ce2389a798228b414c98220dcd272bcf33bc9c7af3f771b1"
-    url = "https://github.com/JuliaBinaryWrappers/SIFDecode_jll.jl/releases/download/SIFDecode-v2.5.0+0/SIFDecode.v2.5.0.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
+    sha256 = "56c635ac6f4c9c423e5b136025f5a342e00ecd0bc69c6c55e12a12255d9b30d2"
+    url = "https://github.com/JuliaBinaryWrappers/SIFDecode_jll.jl/releases/download/SIFDecode-v2.5.1+0/SIFDecode.v2.5.1.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
 [[SIFDecode]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "de42d823877a96640be6a682d56cf25fd7d2b5f8"
+git-tree-sha1 = "1d5e837417475aafe7d609b73d77f8cf91af9526"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SIFDecode.download]]
-    sha256 = "2d7d3692c58ab1a332476862d2d6c0c7b16e75fd59772ae366c8d2f88effd4f7"
-    url = "https://github.com/JuliaBinaryWrappers/SIFDecode_jll.jl/releases/download/SIFDecode-v2.5.0+0/SIFDecode.v2.5.0.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
+    sha256 = "ac5612b3344253a43dd7589f7ac94217f4eeb480428c2edfbe0334edd23b94c8"
+    url = "https://github.com/JuliaBinaryWrappers/SIFDecode_jll.jl/releases/download/SIFDecode-v2.5.1+0/SIFDecode.v2.5.1.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
 [[SIFDecode]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "8e3ae96a8e612daeb04a8d8f54f9b3b8816c2ea1"
+git-tree-sha1 = "5d562a2c876d12c85604c01e47e6e03ffe8e0b69"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[SIFDecode.download]]
-    sha256 = "ded6dde417d6d9f7fa10adf07b79d9cf2151c5638df3c203d509dae43030e661"
-    url = "https://github.com/JuliaBinaryWrappers/SIFDecode_jll.jl/releases/download/SIFDecode-v2.5.0+0/SIFDecode.v2.5.0.armv7l-linux-musleabihf-libgfortran4.tar.gz"
+    sha256 = "8ca7dfb36b23eb0bfe0239f16ffdedb7a67ca9236d42c5254792b9863c11c069"
+    url = "https://github.com/JuliaBinaryWrappers/SIFDecode_jll.jl/releases/download/SIFDecode-v2.5.1+0/SIFDecode.v2.5.1.armv7l-linux-musleabihf-libgfortran4.tar.gz"
 [[SIFDecode]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "8d5301ab602009faa535e612319f01a6e100e78b"
+git-tree-sha1 = "7051b47bd6f0bba1ef71a61fe1ccedafcf46c8ea"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SIFDecode.download]]
-    sha256 = "540ef62d996c13df74c61049feca1aef73784197d4b87c047c604f3e91ad5183"
-    url = "https://github.com/JuliaBinaryWrappers/SIFDecode_jll.jl/releases/download/SIFDecode-v2.5.0+0/SIFDecode.v2.5.0.armv7l-linux-musleabihf-libgfortran5.tar.gz"
+    sha256 = "416cbc8b40e21efec5faa517b5d0cdb4e68f6d085e424ab7c55abffd9fb31975"
+    url = "https://github.com/JuliaBinaryWrappers/SIFDecode_jll.jl/releases/download/SIFDecode-v2.5.1+0/SIFDecode.v2.5.1.armv7l-linux-musleabihf-libgfortran5.tar.gz"
 [[SIFDecode]]
 arch = "i686"
-git-tree-sha1 = "76d2b1c8bd4110d6b96ad7356ef18a24ebca9eb3"
+git-tree-sha1 = "8e7ca5a21003d213f99681a24cdd02de24782e4c"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[SIFDecode.download]]
-    sha256 = "e4ac3cfd764f84ead97d3db8fa5ae7356ac4cb41c70d421e799f46f74127ac30"
-    url = "https://github.com/JuliaBinaryWrappers/SIFDecode_jll.jl/releases/download/SIFDecode-v2.5.0+0/SIFDecode.v2.5.0.i686-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "a29e6dedc7f3bc9ad3758b7c63cb1885451fa74e1c6370fd6a3c17fb6ed093b2"
+    url = "https://github.com/JuliaBinaryWrappers/SIFDecode_jll.jl/releases/download/SIFDecode-v2.5.1+0/SIFDecode.v2.5.1.i686-linux-gnu-libgfortran4.tar.gz"
 [[SIFDecode]]
 arch = "i686"
-git-tree-sha1 = "950f197def4f14b05ec2d69876452fb8ec446574"
+git-tree-sha1 = "02ae27dab92890c2dcf21416572900cab40308f8"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SIFDecode.download]]
-    sha256 = "8b1ebf360bf075ce9aa5b10a35657db2e4007a97a158671bd7b8dcf08386b3c1"
-    url = "https://github.com/JuliaBinaryWrappers/SIFDecode_jll.jl/releases/download/SIFDecode-v2.5.0+0/SIFDecode.v2.5.0.i686-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "b452b3dcc82b0fe2105d9fbdce4240333b54c449d4b2cf89d7ff1996893843a8"
+    url = "https://github.com/JuliaBinaryWrappers/SIFDecode_jll.jl/releases/download/SIFDecode-v2.5.1+0/SIFDecode.v2.5.1.i686-linux-gnu-libgfortran5.tar.gz"
 [[SIFDecode]]
 arch = "i686"
-git-tree-sha1 = "7b7d73b694bc00f657245489f0fb968ad4ad4f33"
+git-tree-sha1 = "d6307a5be1d4b854108ea3c70d8a40c299b9bd17"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[SIFDecode.download]]
-    sha256 = "ab5d6911c64ad3e578cc533d73e300e41cdc21e0f2931154b84f74d29155ac22"
-    url = "https://github.com/JuliaBinaryWrappers/SIFDecode_jll.jl/releases/download/SIFDecode-v2.5.0+0/SIFDecode.v2.5.0.i686-linux-musl-libgfortran4.tar.gz"
+    sha256 = "627758b220477f41d5f9415f5decadb38a69a4aeb0018f3c7df9c5fcc50dc933"
+    url = "https://github.com/JuliaBinaryWrappers/SIFDecode_jll.jl/releases/download/SIFDecode-v2.5.1+0/SIFDecode.v2.5.1.i686-linux-musl-libgfortran4.tar.gz"
 [[SIFDecode]]
 arch = "i686"
-git-tree-sha1 = "d1c094a1a1d30dd546451cb7d9386b1992292ce8"
+git-tree-sha1 = "5da59c8255ac030dc3bc25aa3188490b8df16077"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SIFDecode.download]]
-    sha256 = "fce0ab5caa03b168c6095cc5ed3233eac328c3e8675415ba458b98ff667b09a2"
-    url = "https://github.com/JuliaBinaryWrappers/SIFDecode_jll.jl/releases/download/SIFDecode-v2.5.0+0/SIFDecode.v2.5.0.i686-linux-musl-libgfortran5.tar.gz"
+    sha256 = "facbad8dff3135d2c2db3a36e4b8b28d566caace97f98383e1fbb58ccc477752"
+    url = "https://github.com/JuliaBinaryWrappers/SIFDecode_jll.jl/releases/download/SIFDecode-v2.5.1+0/SIFDecode.v2.5.1.i686-linux-musl-libgfortran5.tar.gz"
 [[SIFDecode]]
 arch = "i686"
-git-tree-sha1 = "a9f1498a9c77ac62426b8e958d400e25f7a892de"
+git-tree-sha1 = "669471f22d262021d032d3d2360765b26df0f3ae"
 libgfortran_version = "4.0.0"
 os = "windows"
 
     [[SIFDecode.download]]
-    sha256 = "8177da16838216ef72b49986d0946003afdf2d25219383d7d8a6b85633272a14"
-    url = "https://github.com/JuliaBinaryWrappers/SIFDecode_jll.jl/releases/download/SIFDecode-v2.5.0+0/SIFDecode.v2.5.0.i686-w64-mingw32-libgfortran4.tar.gz"
+    sha256 = "6e234eeb0bd5905460a952b0ff879f49f4495c5cbb62232bdbb94abe3a0ad450"
+    url = "https://github.com/JuliaBinaryWrappers/SIFDecode_jll.jl/releases/download/SIFDecode-v2.5.1+0/SIFDecode.v2.5.1.i686-w64-mingw32-libgfortran4.tar.gz"
 [[SIFDecode]]
 arch = "i686"
-git-tree-sha1 = "42d5437391934f90e591ee8ac90a2f6d906da1e0"
+git-tree-sha1 = "b059b1eb051f68c77dc2ed15d49a94ffe2d59959"
 libgfortran_version = "5.0.0"
 os = "windows"
 
     [[SIFDecode.download]]
-    sha256 = "29575ea166934dd5f17cb418f14b6893b0d17e0d22cf8332f2f6091def0e8ba3"
-    url = "https://github.com/JuliaBinaryWrappers/SIFDecode_jll.jl/releases/download/SIFDecode-v2.5.0+0/SIFDecode.v2.5.0.i686-w64-mingw32-libgfortran5.tar.gz"
+    sha256 = "73f62c356413421ed5b3e0ccf10bba71239b4af7b1555e0065fcfcd3dbd49d98"
+    url = "https://github.com/JuliaBinaryWrappers/SIFDecode_jll.jl/releases/download/SIFDecode-v2.5.1+0/SIFDecode.v2.5.1.i686-w64-mingw32-libgfortran5.tar.gz"
 [[SIFDecode]]
 arch = "powerpc64le"
-git-tree-sha1 = "90afb619da3d3db866b2e334df660542a83726f2"
+git-tree-sha1 = "256d479aff9471a7d08605739a3ec1e93e8450eb"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[SIFDecode.download]]
-    sha256 = "61981912c153305d67bb938a46b9c40dcd9842d6e4d1b5d86fbf90a6d81cdb9c"
-    url = "https://github.com/JuliaBinaryWrappers/SIFDecode_jll.jl/releases/download/SIFDecode-v2.5.0+0/SIFDecode.v2.5.0.powerpc64le-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "d9ebb3e40ad9e3757ad4eee8daaca1f7f4d5c4b46c4aa72043fa975a4c76e709"
+    url = "https://github.com/JuliaBinaryWrappers/SIFDecode_jll.jl/releases/download/SIFDecode-v2.5.1+0/SIFDecode.v2.5.1.powerpc64le-linux-gnu-libgfortran4.tar.gz"
 [[SIFDecode]]
 arch = "powerpc64le"
-git-tree-sha1 = "b27d663ff9c824a4a9004c18410ffcd1b5ed9336"
+git-tree-sha1 = "cc6e693ca1e9a5d0d3fd02005b80630d3fb3d783"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SIFDecode.download]]
-    sha256 = "08b17e0248e88cc5ee4c664f60eb66661d66cb929ff94803220cc4f70f1133d8"
-    url = "https://github.com/JuliaBinaryWrappers/SIFDecode_jll.jl/releases/download/SIFDecode-v2.5.0+0/SIFDecode.v2.5.0.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "2b0e3113f55a8a169e9e1872eb12ea869a7b5af2fbf5f3f64ba11521db931681"
+    url = "https://github.com/JuliaBinaryWrappers/SIFDecode_jll.jl/releases/download/SIFDecode-v2.5.1+0/SIFDecode.v2.5.1.powerpc64le-linux-gnu-libgfortran5.tar.gz"
 [[SIFDecode]]
 arch = "x86_64"
-git-tree-sha1 = "b9f9d62baa506ead073061301e4bfd825d38ddda"
+git-tree-sha1 = "9a2933a517ff8ab9e0344bc3b8f9e5375aae6d51"
 libgfortran_version = "4.0.0"
 os = "macos"
 
     [[SIFDecode.download]]
-    sha256 = "86c31bb1ff149324c727103ddf6ae4ae6ffeb4cf26cd3bcb3952530d111f344d"
-    url = "https://github.com/JuliaBinaryWrappers/SIFDecode_jll.jl/releases/download/SIFDecode-v2.5.0+0/SIFDecode.v2.5.0.x86_64-apple-darwin-libgfortran4.tar.gz"
+    sha256 = "056cccfdb44df81225d477df408cc91b9df609cb56972238173421ca8e2a4dde"
+    url = "https://github.com/JuliaBinaryWrappers/SIFDecode_jll.jl/releases/download/SIFDecode-v2.5.1+0/SIFDecode.v2.5.1.x86_64-apple-darwin-libgfortran4.tar.gz"
 [[SIFDecode]]
 arch = "x86_64"
-git-tree-sha1 = "74a5413c4e2487fa3af177e8838db940952f9299"
+git-tree-sha1 = "3cdc4671ae995992397cc5dc3ef11855a053f9e2"
 libgfortran_version = "5.0.0"
 os = "macos"
 
     [[SIFDecode.download]]
-    sha256 = "081d282698fbf145d5873aacef89eb6cd2b253b7916dd7848cbd805c51e99562"
-    url = "https://github.com/JuliaBinaryWrappers/SIFDecode_jll.jl/releases/download/SIFDecode-v2.5.0+0/SIFDecode.v2.5.0.x86_64-apple-darwin-libgfortran5.tar.gz"
+    sha256 = "127b91c999be4da8bc23ce92f1a44dd973fdb49bd82af72e7c6e4da02ff52980"
+    url = "https://github.com/JuliaBinaryWrappers/SIFDecode_jll.jl/releases/download/SIFDecode-v2.5.1+0/SIFDecode.v2.5.1.x86_64-apple-darwin-libgfortran5.tar.gz"
 [[SIFDecode]]
 arch = "x86_64"
-git-tree-sha1 = "165e8f1c695f7339a2453fb21ba0db295d603702"
+git-tree-sha1 = "aa284bca1ce256d8d5bc4da9b597df15f8c3fc50"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[SIFDecode.download]]
-    sha256 = "a879b67adcaccd9c2cf6545bdfef74241eacc747b97fcf53842ad1194b13237b"
-    url = "https://github.com/JuliaBinaryWrappers/SIFDecode_jll.jl/releases/download/SIFDecode-v2.5.0+0/SIFDecode.v2.5.0.x86_64-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "d79368657804919935e6b2b3377922c28ef0cf76e172d0aaafaf9c80f7222575"
+    url = "https://github.com/JuliaBinaryWrappers/SIFDecode_jll.jl/releases/download/SIFDecode-v2.5.1+0/SIFDecode.v2.5.1.x86_64-linux-gnu-libgfortran4.tar.gz"
 [[SIFDecode]]
 arch = "x86_64"
-git-tree-sha1 = "ffce006f880f075a016518c0de48131b983731d4"
+git-tree-sha1 = "eef0fb4be154c95aa8fac1301b3e6a0bdf45ba5d"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SIFDecode.download]]
-    sha256 = "1eac6d02943a945a80a226dc8a73932323305ec03e3e9de8a21bccf94d4d6ddc"
-    url = "https://github.com/JuliaBinaryWrappers/SIFDecode_jll.jl/releases/download/SIFDecode-v2.5.0+0/SIFDecode.v2.5.0.x86_64-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "0eb627c8f235d0c304f6e9eb61cfaa008f8b9028f571d4bc3dac61df8b036103"
+    url = "https://github.com/JuliaBinaryWrappers/SIFDecode_jll.jl/releases/download/SIFDecode-v2.5.1+0/SIFDecode.v2.5.1.x86_64-linux-gnu-libgfortran5.tar.gz"
 [[SIFDecode]]
 arch = "x86_64"
-git-tree-sha1 = "bcbeff9a377b2ec30216be7a5b45456bacfcf882"
+git-tree-sha1 = "16c794360347cd68f835fefb4ee3c111eb663891"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[SIFDecode.download]]
-    sha256 = "a310292107ed04ea229e9d8623bb689746abe0aa7a3d781a54840c3be7e38bea"
-    url = "https://github.com/JuliaBinaryWrappers/SIFDecode_jll.jl/releases/download/SIFDecode-v2.5.0+0/SIFDecode.v2.5.0.x86_64-linux-musl-libgfortran4.tar.gz"
+    sha256 = "7c62ec6adfe4418548d81d31dd50e7dd8b88b760f9133b616f1da60c808a59bc"
+    url = "https://github.com/JuliaBinaryWrappers/SIFDecode_jll.jl/releases/download/SIFDecode-v2.5.1+0/SIFDecode.v2.5.1.x86_64-linux-musl-libgfortran4.tar.gz"
 [[SIFDecode]]
 arch = "x86_64"
-git-tree-sha1 = "5a2ac1f599c8c76c9951dd9dd52a2b193c6e2ff4"
+git-tree-sha1 = "89b01349942569b5255f10ec26615b3d17926835"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SIFDecode.download]]
-    sha256 = "ad151bbbb510e29b9ec533625401e94461e162da74e0d91108504df9d0de1e92"
-    url = "https://github.com/JuliaBinaryWrappers/SIFDecode_jll.jl/releases/download/SIFDecode-v2.5.0+0/SIFDecode.v2.5.0.x86_64-linux-musl-libgfortran5.tar.gz"
+    sha256 = "9eeb443df8c02d432fee600671900b2020cda75f6853b11ca5567ba724575fe5"
+    url = "https://github.com/JuliaBinaryWrappers/SIFDecode_jll.jl/releases/download/SIFDecode-v2.5.1+0/SIFDecode.v2.5.1.x86_64-linux-musl-libgfortran5.tar.gz"
 [[SIFDecode]]
 arch = "x86_64"
-git-tree-sha1 = "722037fada599beb58f9cf16d013a4f899cf8226"
+git-tree-sha1 = "c68f8e2f44d8fdff090b3947e00a7b0f618f3da1"
 libgfortran_version = "4.0.0"
 os = "freebsd"
 
     [[SIFDecode.download]]
-    sha256 = "401761625e62be22aed17d5049b6535cb917113ad39e1b6a4e98212639c151cf"
-    url = "https://github.com/JuliaBinaryWrappers/SIFDecode_jll.jl/releases/download/SIFDecode-v2.5.0+0/SIFDecode.v2.5.0.x86_64-unknown-freebsd-libgfortran4.tar.gz"
+    sha256 = "e50c8e4e2953be8e57fa9e42d1d7bab11e519ed5b35b4edea11b93e7504805b1"
+    url = "https://github.com/JuliaBinaryWrappers/SIFDecode_jll.jl/releases/download/SIFDecode-v2.5.1+0/SIFDecode.v2.5.1.x86_64-unknown-freebsd-libgfortran4.tar.gz"
 [[SIFDecode]]
 arch = "x86_64"
-git-tree-sha1 = "229a55bcdbfc2ebfa47bba37d7c0cfb89d9b5824"
+git-tree-sha1 = "570196b0c95e6ad1ae24cafd7f12cd35999dcf31"
 libgfortran_version = "5.0.0"
 os = "freebsd"
 
     [[SIFDecode.download]]
-    sha256 = "9050c32d21b8980888c9a0346b2b8c29c558ddad67c5b600b34720678cab0680"
-    url = "https://github.com/JuliaBinaryWrappers/SIFDecode_jll.jl/releases/download/SIFDecode-v2.5.0+0/SIFDecode.v2.5.0.x86_64-unknown-freebsd-libgfortran5.tar.gz"
+    sha256 = "aab5bdbcf727d80fadbd5948f0e400065f61696311a018a484a2b1bddb945d6d"
+    url = "https://github.com/JuliaBinaryWrappers/SIFDecode_jll.jl/releases/download/SIFDecode-v2.5.1+0/SIFDecode.v2.5.1.x86_64-unknown-freebsd-libgfortran5.tar.gz"
 [[SIFDecode]]
 arch = "x86_64"
-git-tree-sha1 = "388d70bfa0c31e08e9abee200f0ffebed7b8dc70"
+git-tree-sha1 = "fcef623e3ea5f26bba00695e3800b6abe5466818"
 libgfortran_version = "4.0.0"
 os = "windows"
 
     [[SIFDecode.download]]
-    sha256 = "4ee3def8279f336cec1246a0a1f5a86d83fdffe8251ec39db7b03cdbcd088e39"
-    url = "https://github.com/JuliaBinaryWrappers/SIFDecode_jll.jl/releases/download/SIFDecode-v2.5.0+0/SIFDecode.v2.5.0.x86_64-w64-mingw32-libgfortran4.tar.gz"
+    sha256 = "52505f3a65d34104f0726d40f59adad4b7c83a9d126b679bc00632e4024d33b5"
+    url = "https://github.com/JuliaBinaryWrappers/SIFDecode_jll.jl/releases/download/SIFDecode-v2.5.1+0/SIFDecode.v2.5.1.x86_64-w64-mingw32-libgfortran4.tar.gz"
 [[SIFDecode]]
 arch = "x86_64"
-git-tree-sha1 = "b7913c9c19bd21f37ffb15b418f967d641ac0ad7"
+git-tree-sha1 = "79ef797cc695b8c88aa9ff34836f75128a07bb5f"
 libgfortran_version = "5.0.0"
 os = "windows"
 
     [[SIFDecode.download]]
-    sha256 = "ae3b8eab5a289216c299b193d4590a1b2c5ad1b00e4e596e81f22b59fbb2fbbd"
-    url = "https://github.com/JuliaBinaryWrappers/SIFDecode_jll.jl/releases/download/SIFDecode-v2.5.0+0/SIFDecode.v2.5.0.x86_64-w64-mingw32-libgfortran5.tar.gz"
+    sha256 = "9a555f1a6b384d1d866fcff0dbc6e7542e03399cb71b042baa4feb53313992b6"
+    url = "https://github.com/JuliaBinaryWrappers/SIFDecode_jll.jl/releases/download/SIFDecode-v2.5.1+0/SIFDecode.v2.5.1.x86_64-w64-mingw32-libgfortran5.tar.gz"
